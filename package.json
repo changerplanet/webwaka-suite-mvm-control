@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-mvm-control",
+  "version": "0.1.0",
+  "description": "WebWaka mvm suite - control",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
